@@ -1,7 +1,7 @@
 <?php
 
 /**
- * class matematica
+ * class Matematica
  */
 class Matematica
 {
